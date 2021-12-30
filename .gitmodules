@@ -1,0 +1,3 @@
+[submodule "DataDrivenControl.jl"]
+	path = DataDrivenControl.jl
+	url = https://github.com/fdcl-data-driven-control/DataDrivenControl.jl
