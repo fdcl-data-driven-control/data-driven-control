@@ -9,4 +9,4 @@
 [Flight Dynamics and Control Laboratory (FDCL)](http://fdcl.snu.ac.kr/wordpress/), Seoul National University (SNU).
 
 ### Maintainer
-- Hanna Lee (@hnlee77)
+- Hanna Lee ([@hnlee77](https://github.com/hnlee77))
